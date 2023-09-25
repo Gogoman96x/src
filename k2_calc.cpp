@@ -1,5 +1,5 @@
 /* Dieses Script rechnet die Punkte für die Relation M(R) für gegebenes P_c aus.*/
-
+//test
 
 
 #include <cmath>
